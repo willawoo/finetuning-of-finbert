@@ -1,2 +1,1 @@
-# mutual-funds-forecasting
-dse4101
+# Fine-Tuning-of-NN-Model
